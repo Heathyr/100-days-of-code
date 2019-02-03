@@ -246,3 +246,74 @@ Day 28: January 31, 2019
 **Thoughts** So... I was all set to post my portfolio page for feedback until I saw some that others posted, haha. Think I'm suffering from "I'm not  good enough" syndrome before I can even get to the Imposter Syndrome everyone talks about. Anyway, not sure I want to post it for feedback right now... Maybe I'll just take the plunge and upload the files to my site. At least that way there will be no going back/chickening out if I get some tough criticism, haha. I don't want to strand myself in an endless revision process before I even have the guts to publish.
 
 **Link(s) to work** https://heathyr.github.io/first-portfolio/
+
+Day 29: February 1, 2019
+
+**Today's Progress**: 29 - It's alliiiive! http://heathyrjclift.com/ . Yep, my little Frankenstein baby lives. Thanks to all who gave feedback! Already working on next version, but figured I better wo/man up & pull the trigger on this thing, haha. Anyhoodle... 🥳🍾#CodeNewbie #100DaysOfCode #WomenWhoCode
+
+**Thoughts** I'm glad I forced myself to publish despite the site design being less than ideal. It's helping me to honor and celebrate where I'm at right now and how far I've come :)
+
+**Link(s) to work**  http://heathyrjclift.com/
+
+
+Day 30: February 2, 2019
+
+**Today's Progress**: Spent most of my day working on a script and my Skillcrush design courses, but still managed to put in two and a half hours in on coding. Went back to freeCodeCamp's Responsive Web Design curriculum - on the second project now, the survey form. It's quite tedious, haha, but I'm proud of myself for figuring out the basic structure on my own after several days away from FCC. I just had to refer back to the form specifics like radio buttons and checklists, etc.
+
+**Thoughts** I can work things out on my own now that would have thoroughly confused and frustrated me a month ago and that feels great!
+
+**Link(s) to work**
+
+
+Day 31: February 3, 2019
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+Day 32: February 4, 2019
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+Day 33: February 5, 2019
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+Day 34: February 6, 2019
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+Day 35: February 7, 2019
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+
+Day 36: February 8, 2019
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
