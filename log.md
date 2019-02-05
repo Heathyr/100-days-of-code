@@ -267,18 +267,32 @@ Day 30: February 2, 2019
 
 Day 31: February 3, 2019
 
+<<<<<<< HEAD
 **Today's Progress**:
 
 **Thoughts**
 
 **Link(s) to work**
+=======
+**Today's Progress**: 31. My brain seems to be taking a vacation day, haha. Managed to chip away at @freeCodeCamp Survey and my script, tho. Will work on my design course a bit & then knock off early. Yay for a chill Sunday 😌 ~ Happy livin', y'all! ~ 🌞#CodeNewbie #100DaysofCode #WomenWhoCode
+
+**Thoughts** I'm really enjoying my new routine of splitting my day into a manageable balance of screenwriting, coding and design :)
+
+**Link(s) to work** https://github.com/Heathyr/survey
+>>>>>>> log-updates
 
 
 Day 32: February 4, 2019
 
+<<<<<<< HEAD
 **Today's Progress**:
 
 **Thoughts**
+=======
+**Today's Progress**: Whelp, I started Skillcrush's 102 JavaScript class. Really hoping this will help me stretch my brain to better accommodate my new code life, haha. I chipped away a bit more on the survey site, but Skillcrush classes take precedence... freeCodeCamp is just extra practice :) 
+
+**Thoughts** As posted on Slack... Just started my JavaScript journey, woo-hoo! Looking forward to stretching my brain w/computational thinking… even if it does :exploding_head: now and then! I’m like Cate Blanchett in Kingdom of the Crystal Skull - I want to know all the things, even if it kills me, haha :muscle::skin-tone-3: :brain:
+>>>>>>> log-updates
 
 **Link(s) to work**
 
